@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-19T02:13:13.246Z" agent="5.0 (Windows)" etag="j8WCEvDQ6yI7Mcgx-BDB" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-19T02:26:15.081Z" agent="5.0 (Windows)" etag="w-EJWIW9yV2QCb0ZNCZM" version="14.2.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1884" dy="1166" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -505,7 +505,7 @@
         <mxCell id="1515" value="采集服务" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=30;fontColor=#2F5B7C;align=center;strokeColor=#2F5B7C;strokeWidth=6;fillColor=#FFFFFF;fontStyle=1;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="961" y="676.5" width="270" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="1516" value="配置信息" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#736ca8;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="1516" value="配置信息YAML" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#736ca8;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="312" y="721.5" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1518" value="&lt;div&gt;schedule.conf&lt;/div&gt;&lt;div&gt;任务配置&lt;br&gt;&lt;/div&gt;" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
