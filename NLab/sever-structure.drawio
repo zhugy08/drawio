@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2021-01-19T01:46:53.385Z" agent="5.0 (Windows)" etag="YvZIsMBeKe_mPme4TTUu" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-19T01:52:12.120Z" agent="5.0 (Windows)" etag="aIl2GAVYq7aQDI5YhDeM" version="14.2.4" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="1108" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AGti1HKJOVgZuxA2rjyL-1" value="采集设备同步" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AGti1HKJOVgZuxA2rjyL-2" value="采集设备驱动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AGti1HKJOVgZuxA2rjyL-3" value="数据存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AGti1HKJOVgZuxA2rjyL-5" value="服务守护进程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AGti1HKJOVgZuxA2rjyL-6" value="分析配置处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AGti1HKJOVgZuxA2rjyL-7" value="RPC服务端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="200" width="260" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
