@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-01-21T01:22:12.905Z" agent="5.0 (Windows)" etag="TEO59eZLtq61uwDceHTo" version="14.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-21T01:24:48.247Z" agent="5.0 (Windows)" etag="F0JlZbw-fKkBphjXb1A1" version="14.2.6" type="github">
   <diagram id="Xt-xnnDFV80CEgQrNC_6" name="Page-1">
-    <mxGraphModel dx="1346" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1108" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vg7db7qcrDWaZR1GCwfs-95" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="730" width="500" height="480" as="geometry" />
+        </mxCell>
         <mxCell id="vg7db7qcrDWaZR1GCwfs-61" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="75" width="500" height="495" as="geometry" />
         </mxCell>
@@ -102,7 +105,34 @@
           <mxGeometry x="30" y="30" width="270" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vg7db7qcrDWaZR1GCwfs-75" value="&lt;font style=&quot;font-size: 19px&quot;&gt;用例2： 直接使用测试设备进行测试测量&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="650" width="350" height="20" as="geometry" />
+          <mxGeometry x="40" y="650" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vg7db7qcrDWaZR1GCwfs-85" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="280" y="750" width="130" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="vg7db7qcrDWaZR1GCwfs-86" value="" style="group" vertex="1" connectable="0" parent="vg7db7qcrDWaZR1GCwfs-85">
+          <mxGeometry width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vg7db7qcrDWaZR1GCwfs-87" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="vg7db7qcrDWaZR1GCwfs-86">
+          <mxGeometry width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vg7db7qcrDWaZR1GCwfs-88" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="vg7db7qcrDWaZR1GCwfs-86">
+          <mxGeometry x="10" y="5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vg7db7qcrDWaZR1GCwfs-89" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="vg7db7qcrDWaZR1GCwfs-86">
+          <mxGeometry x="40" y="5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vg7db7qcrDWaZR1GCwfs-90" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="vg7db7qcrDWaZR1GCwfs-86">
+          <mxGeometry x="70" y="5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vg7db7qcrDWaZR1GCwfs-91" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="vg7db7qcrDWaZR1GCwfs-86">
+          <mxGeometry x="100" y="5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vg7db7qcrDWaZR1GCwfs-92" value="采集设备" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vg7db7qcrDWaZR1GCwfs-85">
+          <mxGeometry x="40" y="35" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vg7db7qcrDWaZR1GCwfs-93" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="900" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
