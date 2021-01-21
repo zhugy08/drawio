@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-21T01:06:39.022Z" agent="5.0 (Windows)" etag="pArsORXyNxtyauwQkj4S" version="14.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-21T01:08:33.542Z" agent="5.0 (Windows)" etag="1oQmHu8Ixlf8nLBMjdUo" version="14.2.6" type="github">
   <diagram id="Xt-xnnDFV80CEgQrNC_6" name="Page-1">
     <mxGraphModel dx="942" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,6 +68,42 @@
           <mxGeometry x="100" y="5" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vg7db7qcrDWaZR1GCwfs-29" value="采集设备" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vg7db7qcrDWaZR1GCwfs-22">
+          <mxGeometry x="40" y="35" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vg7db7qcrDWaZR1GCwfs-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vg7db7qcrDWaZR1GCwfs-31" target="vg7db7qcrDWaZR1GCwfs-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vg7db7qcrDWaZR1GCwfs-31" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="580" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vg7db7qcrDWaZR1GCwfs-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="vg7db7qcrDWaZR1GCwfs-33" target="vg7db7qcrDWaZR1GCwfs-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vg7db7qcrDWaZR1GCwfs-33" value="Cloud" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.cloud;" vertex="1" parent="1">
+          <mxGeometry x="340" y="575" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vg7db7qcrDWaZR1GCwfs-35" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="650" y="603" width="130" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="vg7db7qcrDWaZR1GCwfs-36" value="" style="group" vertex="1" connectable="0" parent="vg7db7qcrDWaZR1GCwfs-35">
+          <mxGeometry width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vg7db7qcrDWaZR1GCwfs-37" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="vg7db7qcrDWaZR1GCwfs-36">
+          <mxGeometry width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vg7db7qcrDWaZR1GCwfs-38" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="vg7db7qcrDWaZR1GCwfs-36">
+          <mxGeometry x="10" y="5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vg7db7qcrDWaZR1GCwfs-39" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="vg7db7qcrDWaZR1GCwfs-36">
+          <mxGeometry x="40" y="5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vg7db7qcrDWaZR1GCwfs-40" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="vg7db7qcrDWaZR1GCwfs-36">
+          <mxGeometry x="70" y="5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vg7db7qcrDWaZR1GCwfs-41" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="vg7db7qcrDWaZR1GCwfs-36">
+          <mxGeometry x="100" y="5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vg7db7qcrDWaZR1GCwfs-42" value="采集设备" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vg7db7qcrDWaZR1GCwfs-35">
           <mxGeometry x="40" y="35" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
