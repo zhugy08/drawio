@@ -1,1 +1,147 @@
-<mxfile host="app.diagrams.net" modified="2021-02-23T05:17:28.621Z" agent="5.0 (Windows)" version="14.4.2" etag="cMlpuG6ivw4WmZhyw7Hg" type="github"><diagram id="HNxGL6cUAwNk3P0e9Yfa">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-23T05:22:49.009Z" agent="5.0 (Windows)" etag="ynlhVOSRZsWevvdzcaa-" version="14.4.2" type="github">
+  <diagram id="HNxGL6cUAwNk3P0e9Yfa" name="Page-1">
+    <mxGraphModel dx="942" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XW_Ste4Rm_F29dnTuvDp-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XW_Ste4Rm_F29dnTuvDp-2" target="XW_Ste4Rm_F29dnTuvDp-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="100" />
+              <mxPoint x="120" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XW_Ste4Rm_F29dnTuvDp-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XW_Ste4Rm_F29dnTuvDp-2" target="XW_Ste4Rm_F29dnTuvDp-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="100" />
+              <mxPoint x="330" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XW_Ste4Rm_F29dnTuvDp-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XW_Ste4Rm_F29dnTuvDp-2" target="XW_Ste4Rm_F29dnTuvDp-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="100" />
+              <mxPoint x="540" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XW_Ste4Rm_F29dnTuvDp-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XW_Ste4Rm_F29dnTuvDp-2" target="XW_Ste4Rm_F29dnTuvDp-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="100" />
+              <mxPoint x="730" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XW_Ste4Rm_F29dnTuvDp-2" value="模态分析软件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="50" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XW_Ste4Rm_F29dnTuvDp-3" value="基本模型创建" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="140" y="240" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XW_Ste4Rm_F29dnTuvDp-4" value="模态分析算法" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="353" y="280" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XW_Ste4Rm_F29dnTuvDp-5" value="模型拾取与编辑" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="140" y="280" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XW_Ste4Rm_F29dnTuvDp-6" value="测点标记及编辑" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="140" y="320" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XW_Ste4Rm_F29dnTuvDp-7" value="频响处理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="353" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XW_Ste4Rm_F29dnTuvDp-8" value="模态编辑" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="353" y="320" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XW_Ste4Rm_F29dnTuvDp-9" value="振型拟合" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="353" y="360" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XW_Ste4Rm_F29dnTuvDp-10" value="仿真动画" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="560" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XW_Ste4Rm_F29dnTuvDp-11" value="运行状态振型仿真" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="560" y="240" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XW_Ste4Rm_F29dnTuvDp-12" value="模态振型仿真" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="560" y="280" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XW_Ste4Rm_F29dnTuvDp-13" value="模态指示函数" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="353" y="240" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XW_Ste4Rm_F29dnTuvDp-14" value="三维视图显示" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="140" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XW_Ste4Rm_F29dnTuvDp-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XW_Ste4Rm_F29dnTuvDp-15" target="XW_Ste4Rm_F29dnTuvDp-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XW_Ste4Rm_F29dnTuvDp-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XW_Ste4Rm_F29dnTuvDp-15" target="XW_Ste4Rm_F29dnTuvDp-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XW_Ste4Rm_F29dnTuvDp-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XW_Ste4Rm_F29dnTuvDp-15" target="XW_Ste4Rm_F29dnTuvDp-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XW_Ste4Rm_F29dnTuvDp-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XW_Ste4Rm_F29dnTuvDp-15" target="XW_Ste4Rm_F29dnTuvDp-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XW_Ste4Rm_F29dnTuvDp-15" value="三维显示与建模" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="60" y="125" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XW_Ste4Rm_F29dnTuvDp-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XW_Ste4Rm_F29dnTuvDp-16" target="XW_Ste4Rm_F29dnTuvDp-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XW_Ste4Rm_F29dnTuvDp-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XW_Ste4Rm_F29dnTuvDp-16" target="XW_Ste4Rm_F29dnTuvDp-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XW_Ste4Rm_F29dnTuvDp-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XW_Ste4Rm_F29dnTuvDp-16" target="XW_Ste4Rm_F29dnTuvDp-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XW_Ste4Rm_F29dnTuvDp-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XW_Ste4Rm_F29dnTuvDp-16" target="XW_Ste4Rm_F29dnTuvDp-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XW_Ste4Rm_F29dnTuvDp-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XW_Ste4Rm_F29dnTuvDp-16" target="XW_Ste4Rm_F29dnTuvDp-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XW_Ste4Rm_F29dnTuvDp-16" value="模态分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="270" y="125" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XW_Ste4Rm_F29dnTuvDp-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XW_Ste4Rm_F29dnTuvDp-17" target="XW_Ste4Rm_F29dnTuvDp-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XW_Ste4Rm_F29dnTuvDp-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XW_Ste4Rm_F29dnTuvDp-17" target="XW_Ste4Rm_F29dnTuvDp-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XW_Ste4Rm_F29dnTuvDp-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XW_Ste4Rm_F29dnTuvDp-17" target="XW_Ste4Rm_F29dnTuvDp-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XW_Ste4Rm_F29dnTuvDp-17" value="振动仿真" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="480" y="125" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XW_Ste4Rm_F29dnTuvDp-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XW_Ste4Rm_F29dnTuvDp-18" target="XW_Ste4Rm_F29dnTuvDp-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XW_Ste4Rm_F29dnTuvDp-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XW_Ste4Rm_F29dnTuvDp-18" target="XW_Ste4Rm_F29dnTuvDp-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XW_Ste4Rm_F29dnTuvDp-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XW_Ste4Rm_F29dnTuvDp-18" target="XW_Ste4Rm_F29dnTuvDp-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XW_Ste4Rm_F29dnTuvDp-18" value="模态置信准则" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="670" y="125" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XW_Ste4Rm_F29dnTuvDp-19" value="置信准则算法" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="750" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XW_Ste4Rm_F29dnTuvDp-20" value="表格/柱状图显示结果" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="750" y="240" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XW_Ste4Rm_F29dnTuvDp-21" value="振型仿真对比动画" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="750" y="280" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
