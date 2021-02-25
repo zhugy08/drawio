@@ -1,1 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2021-02-25T06:10:56.638Z" agent="5.0 (Windows)" version="14.4.3" etag="IreJPC2BElyZT8_emHNf" type="github"><diagram id="Slq857jgQNVmLPVsMrNM">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-25T06:12:25.783Z" agent="5.0 (Windows)" etag="if6Ghbue6A2mu_2ZlY_N" version="14.4.3" type="github">
+  <diagram id="Slq857jgQNVmLPVsMrNM" name="Page-1">
+    <mxGraphModel dx="942" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6Lxf5MOVYXlM3tVYyecf-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Lxf5MOVYXlM3tVYyecf-1" target="6Lxf5MOVYXlM3tVYyecf-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="465" y="180" />
+              <mxPoint x="245" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Lxf5MOVYXlM3tVYyecf-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Lxf5MOVYXlM3tVYyecf-1" target="6Lxf5MOVYXlM3tVYyecf-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lxf5MOVYXlM3tVYyecf-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6Lxf5MOVYXlM3tVYyecf-1" target="6Lxf5MOVYXlM3tVYyecf-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lxf5MOVYXlM3tVYyecf-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6Lxf5MOVYXlM3tVYyecf-1" target="6Lxf5MOVYXlM3tVYyecf-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="465" y="180" />
+              <mxPoint x="695" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Lxf5MOVYXlM3tVYyecf-1" value="模态分析软件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="110" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lxf5MOVYXlM3tVYyecf-2" value="三维显示与建模" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="210" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lxf5MOVYXlM3tVYyecf-3" value="模态分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="210" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lxf5MOVYXlM3tVYyecf-4" value="振动仿真" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="210" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lxf5MOVYXlM3tVYyecf-5" value="模态置信准则" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="210" width="130" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
