@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-26T08:20:59.520Z" agent="5.0 (Windows)" etag="PE935-Q-nqvxQ-xbWX_W" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-26T08:33:32.888Z" agent="5.0 (Windows)" etag="MU3FIgjTBLANXf0fP46t" version="14.5.1" type="github">
   <diagram id="gMokUn0HMAh3KGfOjLti" name="Page-1">
     <mxGraphModel dx="942" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,6 +43,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="E5PZc0p95IaZfSaytJfl-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E5PZc0p95IaZfSaytJfl-7" target="E5PZc0p95IaZfSaytJfl-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="E5PZc0p95IaZfSaytJfl-7" value="&lt;div&gt;COM Component&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="190" width="190" height="60" as="geometry" />
         </mxCell>
@@ -57,6 +60,9 @@
         </mxCell>
         <mxCell id="E5PZc0p95IaZfSaytJfl-13" value="&lt;div&gt;Power Shell / CMD&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E5PZc0p95IaZfSaytJfl-16" value=".Net Assembly可以被PowerShell使用，但是不能被VBS使用" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="690" y="290" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
