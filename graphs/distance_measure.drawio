@@ -1,1 +1,118 @@
-<mxfile host="app.diagrams.net" modified="2021-04-12T00:41:50.329Z" agent="5.0 (Windows)" version="14.5.10" etag="rw7BftYAKg1DSzlYGT8Y" type="github"><diagram id="sQkdli30m8NRGwkvhZA2">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-12T00:52:42.429Z" agent="5.0 (Windows)" etag="tySQMCt9NXTVvUfP7uog" version="14.5.10" type="github">
+  <diagram id="sQkdli30m8NRGwkvhZA2" name="Page-1">
+    <mxGraphModel dx="762" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6m5tojyaJkBsCokPBMDN-2" value="测量模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="380" width="420" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6m5tojyaJkBsCokPBMDN-3" value="计算与存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="340" width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6m5tojyaJkBsCokPBMDN-4" value="&lt;div&gt;串口&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="300" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6m5tojyaJkBsCokPBMDN-5" value="蓝牙" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="300" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6m5tojyaJkBsCokPBMDN-6" value="全站仪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="300" width="90" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="6m5tojyaJkBsCokPBMDN-7" value="&lt;div&gt;测量员App&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6m5tojyaJkBsCokPBMDN-8" value="PC软件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6m5tojyaJkBsCokPBMDN-9" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="6m5tojyaJkBsCokPBMDN-4" target="6m5tojyaJkBsCokPBMDN-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="280" as="sourcePoint" />
+            <mxPoint x="340" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6m5tojyaJkBsCokPBMDN-10" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="6m5tojyaJkBsCokPBMDN-5" target="6m5tojyaJkBsCokPBMDN-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="290" as="sourcePoint" />
+            <mxPoint x="630" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6m5tojyaJkBsCokPBMDN-11" value="" style="endArrow=none;html=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="119" y="260" as="sourcePoint" />
+            <mxPoint x="709" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6m5tojyaJkBsCokPBMDN-12" value="IoT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="300" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6m5tojyaJkBsCokPBMDN-13" value="云平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6m5tojyaJkBsCokPBMDN-14" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="589.5" y="300" as="sourcePoint" />
+            <mxPoint x="589.5" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6m5tojyaJkBsCokPBMDN-15" value="测量模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="920" width="420" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6m5tojyaJkBsCokPBMDN-16" value="计算与存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="880" width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6m5tojyaJkBsCokPBMDN-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="6m5tojyaJkBsCokPBMDN-17" target="6m5tojyaJkBsCokPBMDN-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6m5tojyaJkBsCokPBMDN-17" value="&lt;div&gt;串口&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="840" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6m5tojyaJkBsCokPBMDN-18" value="蓝牙" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="840" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6m5tojyaJkBsCokPBMDN-19" value="全站仪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="840" width="90" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="6m5tojyaJkBsCokPBMDN-20" value="IoT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="840" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6m5tojyaJkBsCokPBMDN-21" value="通信模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="740" width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6m5tojyaJkBsCokPBMDN-23" value="计算与存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="700" width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6m5tojyaJkBsCokPBMDN-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="6m5tojyaJkBsCokPBMDN-24" target="6m5tojyaJkBsCokPBMDN-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6m5tojyaJkBsCokPBMDN-24" value="蓝牙" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="660" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6m5tojyaJkBsCokPBMDN-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="6m5tojyaJkBsCokPBMDN-25" target="6m5tojyaJkBsCokPBMDN-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6m5tojyaJkBsCokPBMDN-25" value="IoT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="660" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6m5tojyaJkBsCokPBMDN-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="6m5tojyaJkBsCokPBMDN-26" target="6m5tojyaJkBsCokPBMDN-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6m5tojyaJkBsCokPBMDN-26" value="有线/无线局域网" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="660" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6m5tojyaJkBsCokPBMDN-27" value="单板计算机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="660" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6m5tojyaJkBsCokPBMDN-29" value="&lt;div&gt;测量员App&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6m5tojyaJkBsCokPBMDN-30" value="PC软件/通用浏览器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6m5tojyaJkBsCokPBMDN-31" value="云平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
