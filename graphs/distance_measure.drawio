@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-12T01:02:04.312Z" agent="5.0 (Windows)" etag="J9xj9HguDSnGED_WJeB6" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-12T01:03:32.440Z" agent="5.0 (Windows)" etag="e3Hc43guJkufZ9lDTbfl" version="14.5.10" type="github">
   <diagram id="sQkdli30m8NRGwkvhZA2" name="Page-1">
     <mxGraphModel dx="942" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -103,7 +103,7 @@
         <mxCell id="6m5tojyaJkBsCokPBMDN-27" value="单板计算机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="660" width="90" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="6m5tojyaJkBsCokPBMDN-29" value="&lt;div&gt;测量员App&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6m5tojyaJkBsCokPBMDN-29" value="&lt;div&gt;测量员App&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="385" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6m5tojyaJkBsCokPBMDN-30" value="PC软件/通用浏览器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
