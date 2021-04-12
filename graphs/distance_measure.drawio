@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-12T01:03:32.440Z" agent="5.0 (Windows)" etag="e3Hc43guJkufZ9lDTbfl" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-12T01:04:29.381Z" agent="5.0 (Windows)" etag="ue8oVZCC-NvXYOoR43ZU" version="14.5.10" type="github">
   <diagram id="sQkdli30m8NRGwkvhZA2" name="Page-1">
     <mxGraphModel dx="942" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="6m5tojyaJkBsCokPBMDN-6" value="全站仪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="300" width="90" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="6m5tojyaJkBsCokPBMDN-7" value="&lt;div&gt;测量员App&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6m5tojyaJkBsCokPBMDN-7" value="&lt;div&gt;测量员App&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="235" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6m5tojyaJkBsCokPBMDN-8" value="PC软件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -46,7 +46,7 @@
         <mxCell id="6m5tojyaJkBsCokPBMDN-12" value="IoT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="300" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6m5tojyaJkBsCokPBMDN-13" value="云平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6m5tojyaJkBsCokPBMDN-13" value="云平台" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6m5tojyaJkBsCokPBMDN-14" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1">
