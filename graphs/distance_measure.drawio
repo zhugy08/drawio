@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-12T00:52:42.429Z" agent="5.0 (Windows)" etag="tySQMCt9NXTVvUfP7uog" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-12T01:02:04.312Z" agent="5.0 (Windows)" etag="J9xj9HguDSnGED_WJeB6" version="14.5.10" type="github">
   <diagram id="sQkdli30m8NRGwkvhZA2" name="Page-1">
-    <mxGraphModel dx="762" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="942" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,19 +11,19 @@
           <mxGeometry x="230" y="340" width="420" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6m5tojyaJkBsCokPBMDN-4" value="&lt;div&gt;串口&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="300" width="160" height="40" as="geometry" />
+          <mxGeometry x="360" y="300" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6m5tojyaJkBsCokPBMDN-5" value="蓝牙" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="300" width="130" height="40" as="geometry" />
+          <mxGeometry x="230" y="300" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6m5tojyaJkBsCokPBMDN-6" value="全站仪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="300" width="90" height="130" as="geometry" />
         </mxCell>
         <mxCell id="6m5tojyaJkBsCokPBMDN-7" value="&lt;div&gt;测量员App&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="395" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="235" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6m5tojyaJkBsCokPBMDN-8" value="PC软件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6m5tojyaJkBsCokPBMDN-9" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="6m5tojyaJkBsCokPBMDN-4" target="6m5tojyaJkBsCokPBMDN-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -56,30 +56,30 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6m5tojyaJkBsCokPBMDN-15" value="测量模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="920" width="420" height="50" as="geometry" />
+          <mxGeometry x="230" y="970" width="420" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6m5tojyaJkBsCokPBMDN-16" value="计算与存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="880" width="420" height="40" as="geometry" />
+          <mxGeometry x="230" y="930" width="420" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6m5tojyaJkBsCokPBMDN-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="6m5tojyaJkBsCokPBMDN-17" target="6m5tojyaJkBsCokPBMDN-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6m5tojyaJkBsCokPBMDN-17" value="&lt;div&gt;串口&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="840" width="160" height="40" as="geometry" />
+          <mxGeometry x="360" y="890" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6m5tojyaJkBsCokPBMDN-18" value="蓝牙" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="840" width="130" height="40" as="geometry" />
+          <mxGeometry x="230" y="890" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6m5tojyaJkBsCokPBMDN-19" value="全站仪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="840" width="90" height="130" as="geometry" />
+          <mxGeometry x="140" y="890" width="90" height="130" as="geometry" />
         </mxCell>
         <mxCell id="6m5tojyaJkBsCokPBMDN-20" value="IoT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="840" width="130" height="40" as="geometry" />
+          <mxGeometry x="520" y="890" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6m5tojyaJkBsCokPBMDN-21" value="通信模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="740" width="420" height="40" as="geometry" />
+          <mxGeometry x="230" y="780" width="420" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6m5tojyaJkBsCokPBMDN-23" value="计算与存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6m5tojyaJkBsCokPBMDN-23" value="计算存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="700" width="420" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6m5tojyaJkBsCokPBMDN-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="6m5tojyaJkBsCokPBMDN-24" target="6m5tojyaJkBsCokPBMDN-29">
@@ -101,7 +101,7 @@
           <mxGeometry x="230" y="660" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6m5tojyaJkBsCokPBMDN-27" value="单板计算机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="660" width="90" height="120" as="geometry" />
+          <mxGeometry x="140" y="660" width="90" height="160" as="geometry" />
         </mxCell>
         <mxCell id="6m5tojyaJkBsCokPBMDN-29" value="&lt;div&gt;测量员App&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="385" y="550" width="120" height="60" as="geometry" />
@@ -111,6 +111,27 @@
         </mxCell>
         <mxCell id="6m5tojyaJkBsCokPBMDN-31" value="云平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="525" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6m5tojyaJkBsCokPBMDN-35" value="&lt;h1&gt;现有方案&lt;br&gt;&lt;/h1&gt;&lt;p&gt;1. 每个厂家/型号通信协议不同&lt;/p&gt;&lt;p&gt;2. 不是所有设备都有蓝牙和IoT模块&lt;/p&gt;&lt;p&gt;3. 不能远程控制、获取测量数据&lt;/p&gt;&lt;p&gt;4. 需要专用软件&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="275" width="240" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="6m5tojyaJkBsCokPBMDN-36" value="&lt;h1&gt;设计方案&lt;br&gt;&lt;/h1&gt;&lt;p&gt;1. 在单板计算机上完成不同厂家/型号不同通信协议的配适&lt;/p&gt;&lt;p&gt;2. 内置www服务器，可利用无线/有线局域网，&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 使用浏览器实现参数设置，数据获取，无需专用软件&lt;br&gt;&lt;/p&gt;&lt;p&gt;3. 云平台实现远程控制、获取测量数据&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="660" width="480" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="6m5tojyaJkBsCokPBMDN-37" value="协议转换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="740" width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6m5tojyaJkBsCokPBMDN-38" value="" style="endArrow=none;html=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="630" as="sourcePoint" />
+            <mxPoint x="690" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6m5tojyaJkBsCokPBMDN-39" value="" style="endArrow=none;html=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="850" as="sourcePoint" />
+            <mxPoint x="690" y="850" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
