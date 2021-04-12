@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-12T01:04:29.381Z" agent="5.0 (Windows)" etag="ue8oVZCC-NvXYOoR43ZU" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-12T01:07:32.649Z" agent="5.0 (Windows)" etag="Ihu0rqerCOJ0PkmZKu0f" version="14.5.10" type="github">
   <diagram id="sQkdli30m8NRGwkvhZA2" name="Page-1">
-    <mxGraphModel dx="942" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="942" dy="583" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -77,10 +77,10 @@
           <mxGeometry x="520" y="890" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6m5tojyaJkBsCokPBMDN-21" value="通信模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="780" width="420" height="40" as="geometry" />
+          <mxGeometry x="286" y="780" width="364" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6m5tojyaJkBsCokPBMDN-23" value="计算存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="700" width="420" height="40" as="geometry" />
+          <mxGeometry x="286" y="700" width="364" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6m5tojyaJkBsCokPBMDN-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="6m5tojyaJkBsCokPBMDN-24" target="6m5tojyaJkBsCokPBMDN-29">
           <mxGeometry relative="1" as="geometry" />
@@ -119,7 +119,7 @@
           <mxGeometry x="660" y="660" width="480" height="200" as="geometry" />
         </mxCell>
         <mxCell id="6m5tojyaJkBsCokPBMDN-37" value="协议转换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="740" width="420" height="40" as="geometry" />
+          <mxGeometry x="286" y="740" width="364" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6m5tojyaJkBsCokPBMDN-38" value="" style="endArrow=none;html=1;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -132,6 +132,9 @@
             <mxPoint x="100" y="850" as="sourcePoint" />
             <mxPoint x="690" y="850" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6m5tojyaJkBsCokPBMDN-40" value="测量员APP的功能，通信用蓝牙" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="230" y="700" width="56" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
