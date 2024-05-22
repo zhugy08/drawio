@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-22T03:01:47.800Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="ZHc8uNVK5bVJCf51H_UY" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-22T03:09:32.023Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="9j-jgugUYtpOKPZcgbSL" version="24.4.4" type="github">
   <diagram name="第 1 页" id="YTh1NH2GV_Iw4QyMmgsU">
-    <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1090" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -77,7 +77,12 @@
             <mxPoint x="484" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VUU5aLszXmpp5JBpjvVk-28" value="需求信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="VUU5aLszXmpp5JBpjvVk-75" value="报告" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VUU5aLszXmpp5JBpjvVk-27">
+          <mxGeometry x="-0.1724" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VUU5aLszXmpp5JBpjvVk-28" value="订单信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="238" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VUU5aLszXmpp5JBpjvVk-29" value="选型报告" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -108,10 +113,10 @@
         <mxCell id="VUU5aLszXmpp5JBpjvVk-34" value="报告生成" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="324" y="640" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VUU5aLszXmpp5JBpjvVk-35" value="需求信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="VUU5aLszXmpp5JBpjvVk-35" value="订单信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="510" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VUU5aLszXmpp5JBpjvVk-46" value="选型报告" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="VUU5aLszXmpp5JBpjvVk-46" value="报告" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="650" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VUU5aLszXmpp5JBpjvVk-48" value="Level 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -170,7 +175,7 @@
         <mxCell id="VUU5aLszXmpp5JBpjvVk-64" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VUU5aLszXmpp5JBpjvVk-57" target="VUU5aLszXmpp5JBpjvVk-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VUU5aLszXmpp5JBpjvVk-69" value="需求信息、型号信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VUU5aLszXmpp5JBpjvVk-64">
+        <mxCell id="VUU5aLszXmpp5JBpjvVk-69" value="型号信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VUU5aLszXmpp5JBpjvVk-64">
           <mxGeometry x="-0.1" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -184,25 +189,31 @@
         <mxCell id="VUU5aLszXmpp5JBpjvVk-59" value="报告生成" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="324" y="1230" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VUU5aLszXmpp5JBpjvVk-60" value="需求信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="VUU5aLszXmpp5JBpjvVk-60" value="订单信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="960" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VUU5aLszXmpp5JBpjvVk-61" value="选型报告" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="VUU5aLszXmpp5JBpjvVk-61" value="报告" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="1150" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VUU5aLszXmpp5JBpjvVk-65" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VUU5aLszXmpp5JBpjvVk-62" target="VUU5aLszXmpp5JBpjvVk-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VUU5aLszXmpp5JBpjvVk-70" value="需求信息、型号信息、安装方式" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VUU5aLszXmpp5JBpjvVk-65">
+        <mxCell id="VUU5aLszXmpp5JBpjvVk-70" value="安装方式" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VUU5aLszXmpp5JBpjvVk-65">
           <mxGeometry x="-0.1" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VUU5aLszXmpp5JBpjvVk-62" value="确定安装方式" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="324" y="940" width="80" height="80" as="geometry" />
+          <mxGeometry x="430" y="950" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VUU5aLszXmpp5JBpjvVk-63" value="性能评估" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="324" y="1070" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VUU5aLszXmpp5JBpjvVk-71" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;数据字典&lt;/h1&gt;&lt;div&gt;工件：&lt;span style=&quot;background-color: initial;&quot;&gt;需要实施减震的物体&lt;/span&gt;&lt;/div&gt;&lt;div&gt;订单信息：需要实施减震的工件的用途、形状、尺寸、重量&lt;/div&gt;&lt;div&gt;报告：最终选型报告文档，包含订单信息、可选型号、安装方式和评估结果等内容的文档&lt;/div&gt;&lt;div&gt;型号信息：减震器型号、性能参数、可用安装方式、尺寸及其示意图&lt;/div&gt;&lt;div&gt;安装方式：减震器在工件上的安装方式，包括减震器数量，布局方式，布局示意图&lt;/div&gt;&lt;div&gt;评估报告：性能分析结果&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="390" width="520" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="VUU5aLszXmpp5JBpjvVk-72" value="型号信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="460" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
