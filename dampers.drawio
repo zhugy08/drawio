@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-22T03:12:17.768Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="J6RHsoFsnFjdVxri338G" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-22T03:14:51.421Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="UvIp7_Da7znwLHX0nYbj" version="24.4.4" type="github">
   <diagram name="第 1 页" id="YTh1NH2GV_Iw4QyMmgsU">
-    <mxGraphModel dx="1090" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1090" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -99,7 +99,7 @@
             <mxPoint x="364" y="585" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VUU5aLszXmpp5JBpjvVk-47" value="型号选择、安装方式、评估报告" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VUU5aLszXmpp5JBpjvVk-39">
+        <mxCell id="VUU5aLszXmpp5JBpjvVk-47" value="型号选择、安装方式、&lt;span style=&quot;font-size: 12px; text-align: left; text-wrap: wrap; background-color: rgb(251, 251, 251);&quot;&gt;评估结果&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VUU5aLszXmpp5JBpjvVk-39">
           <mxGeometry x="-0.06" y="5" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -175,7 +175,7 @@
             <mxPoint x="364" y="945" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VUU5aLszXmpp5JBpjvVk-56" value="型号选择、安装方式、评估报告" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VUU5aLszXmpp5JBpjvVk-55">
+        <mxCell id="VUU5aLszXmpp5JBpjvVk-56" value="型号选择、安装方式、&lt;span style=&quot;font-size: 12px; text-align: left; text-wrap: wrap; background-color: rgb(251, 251, 251);&quot;&gt;评估结果&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VUU5aLszXmpp5JBpjvVk-55">
           <mxGeometry x="-0.06" y="5" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -225,7 +225,7 @@
         <mxCell id="VUU5aLszXmpp5JBpjvVk-63" value="性能评估" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="414" y="1045" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VUU5aLszXmpp5JBpjvVk-71" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;数据字典&lt;/h1&gt;&lt;div&gt;工件：&lt;span style=&quot;background-color: initial;&quot;&gt;需要实施减震的物体&lt;/span&gt;&lt;/div&gt;&lt;div&gt;订单信息：需要实施减震的工件的用途、形状、尺寸、重量&lt;/div&gt;&lt;div&gt;报告：最终选型报告文档，包含订单信息、可选型号、安装方式和评估结果等内容的文档&lt;/div&gt;&lt;div&gt;型号信息：减震器型号、性能参数、可用安装方式、尺寸及其示意图&lt;/div&gt;&lt;div&gt;安装方式：减震器在工件上的安装方式，包括减震器数量，布局方式，布局示意图&lt;/div&gt;&lt;div&gt;评估报告：性能分析结果&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="VUU5aLszXmpp5JBpjvVk-71" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;数据字典&lt;/h1&gt;&lt;div&gt;工件：&lt;span style=&quot;background-color: initial;&quot;&gt;需要实施减震的物体&lt;/span&gt;&lt;/div&gt;&lt;div&gt;订单信息：需要实施减震的工件的用途、形状、尺寸、重量&lt;/div&gt;&lt;div&gt;报告：最终选型报告文档，包含订单信息、可选型号、安装方式和评估结果等内容的文档&lt;/div&gt;&lt;div&gt;型号信息：减震器型号、性能参数、可用安装方式、尺寸及其示意图&lt;/div&gt;&lt;div&gt;安装方式：减震器在工件上的安装方式，包括减震器数量，布局方式，布局示意图&lt;/div&gt;&lt;div&gt;评估结果：性能分析结果&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="750" y="390" width="520" height="270" as="geometry" />
         </mxCell>
         <mxCell id="VUU5aLszXmpp5JBpjvVk-72" value="型号信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
